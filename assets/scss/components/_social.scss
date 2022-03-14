@@ -1,0 +1,10 @@
+.twitter-link:link,
+.twitter-link:visited {
+  color: $light-1;
+  transition: all 0.2s;
+}
+
+.twitter-link:hover,
+.twitter-link:active {
+  color: $light-2;
+}
